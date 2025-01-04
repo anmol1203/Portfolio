@@ -740,9 +740,9 @@ img {
 }
 
 .statistics_container img {
-    flex: 1;
-    height: 180px;
-    max-width: 47%;
+    /* flex: 1;
+    height: 180px; */
+    /* max-width: 47%; */
     margin: 5px;
 }
 
@@ -1164,7 +1164,7 @@ img {
     }
 
     .statistics_container img {
-        width: 400px;
+        width: 550px;
     }
 
     .contact_form {
